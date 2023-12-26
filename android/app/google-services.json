@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1079556669381",
+    "project_id": "homeguard-e619b",
+    "storage_bucket": "homeguard-e619b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079556669381:android:c73551bfa5a147954355ac",
+        "android_client_info": {
+          "package_name": "com.salzer.homeguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079556669381-4enckmh3ae05j54spj0npef6eiulredh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vxZCoY4ah4B_ew78_eSnRF5h_OI2_3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079556669381-4enckmh3ae05j54spj0npef6eiulredh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079556669381:android:8797f268c161a9f64355ac",
+        "android_client_info": {
+          "package_name": "com.schnelliot.safehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079556669381-khij8s804djgif55bjn438sapg953kmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.schnelliot.safehome",
+            "certificate_hash": "623b504b9b3b5664bf8be72c34c97bd4a201ec45"
+          }
+        },
+        {
+          "client_id": "1079556669381-4enckmh3ae05j54spj0npef6eiulredh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vxZCoY4ah4B_ew78_eSnRF5h_OI2_3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079556669381-4enckmh3ae05j54spj0npef6eiulredh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
